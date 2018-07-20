@@ -4,10 +4,10 @@ National University, Bangladesh, <br>
 Department of Computer Science & Engineering <br>
 
 Student Management system is a Java Swing framework based Desktop application.
-this was my first java Desktop application prject when i take Java SE(Standard Edition)
+this was my first java Desktop application prject when i took Java SE(Standard Edition)
 course in BUET(Bangladesh University of Engineering & Technology) under IAC(Information Access Center).
 this application is very user friendly and store large amount of student information 
-of every department in univerysity. i use "XAMPP" server and MySql Data Base without using 
+of every department in university. i use "XAMPP" server and MySql Data Base without using 
 "SQlite". so you need a XAMPP server. i already give my Data Base SQl file under the 
 project folder. 
 <br>
